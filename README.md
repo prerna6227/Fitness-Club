@@ -56,5 +56,4 @@ fitness-club-website/
 
 The website is crafted to be visually appealing and mobile-first — a crucial skill for real-world web development. Bootstrap’s layout utilities help ensure components like grids, cards, and navigation adapt to different screen sizes, providing a seamless experience for users.
 
-📁 Typical Folder Structure (Suggested)
 
